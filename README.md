@@ -55,7 +55,7 @@ A silent background service ensures VPN stays alive even when the app is minimiz
 # 🌍 DΛRKos VPN
 
 ## 🔑 How to Install
-1. Download the file **[DARKosVPN.mobileconfig](./DARKosVPN.mobileconfig)**  
+1. Download the file **[DARKosVPN.mobileconfig](./DARKosVPN.mobileconfig)**  click raw from safari new page you open do a Save as or tap here [here
 2. Open it directly on your iPhone/iPad.  
 3. Go to **Settings → VPN & Device Management**.  
 4. You’ll find **DΛRKos VPN** ready to enable.
